@@ -25,7 +25,7 @@
   "craftEffect": "shootHealYellow",
   "updateEffect": "none",
   "ambientSound": "electricambience",
-  "ambientSoundVolume": 0.09,
+  "ambientSoundVolume": 1,
   "consumes": {
     "power": 2.6,
     "items": {
@@ -37,7 +37,7 @@
   },
   "requirements": [
     "gold/30",
-    "iron/10",
+    "silver/10",
     "silicon/90"
   ],
   "category": "crafting",
